@@ -1,48 +1,75 @@
 <!DOCTYPE html>
 <html>
+	
 	<head>
+		
 		<meta charset="utf-8">
-		<title>分组信息</title>
+		<title>日历</title>
 	</head>
 	<body>
-		<table border="2">
+		<h2>2025年3月</h2>
+		<table border="3">
+			<td style="background-color: yellow;">一</td>
+			<td style="background-color: aqua;">二</td>
+			<td style="background-color: aquamarine;">三</td>
+			<td style="background-color: beige;">四</td>
+			<td style="background-color: palevioletred;">五</td>
+			<td style="background-color: fuchsia;">六</td>
+			<td style="background-color: deepskyblue;">日</td>
+			
 			<tr>
-				<td>分组</td>
-				<td>姓名</td>
-				<td>年龄</td>
-				<td>性别</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td>1</td>
+				<td>2</td>
 			</tr>
 			<tr>
-				<td rowspan="3">第一组</td>
-				<td>小刘</td>
-				<td>18</td>
-				<td>男</td>
+				<td>3</td>
+				<td>4</td>
+				<td>5</td>
+				<td>6</td>
+				<td>7</td>
+				<td>8</td>
+				<td>9</td>
 			</tr>
 			<tr>
-				<td>小张</td>
+				<td>10</td>
+				<td>11</td>
+				<td>12</td>
+				<td>13</td>
+				<td>14</td>
+				<td>15</td>
 				<td>16</td>
-				<td>女</td>
 			</tr>
 			<tr>
-				<td>小离</td>
 				<td>17</td>
-				<td>男</td>
-			</tr>
-			<tr>
-				<td rowspan="4">第二组</td>
-				<td>小雪</td>
-				<td>19</td>
-				<td>女</td>
-			</tr>
-			<tr>
-				<td>小义</td>
-				<td>20</td>
-				<td>男</td>
-			</tr>
-			<tr>
-				<td>小欣</td>
 				<td>18</td>
-				<td>女</td>
+				<td>19</td>
+				<td>20</td>
+				<td>21</td>
+				<td>22</td>
+				<td>23</td>
+			</tr>
+			<tr>
+				<td>24</td>
+				<td>25</td>
+				<td>26</td>
+				<td>27</td>
+				<td>28</td>
+				<td>29</td>
+				<td>30</td>
+			</tr>
+			<tr>
+				<td>31</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
 			</tr>
 		</table>
 	</body>
