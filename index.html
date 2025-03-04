@@ -1,76 +1,65 @@
 <!DOCTYPE html>
-<html>
-	
+<html lang="zh">
 	<head>
-		
-		<meta charset="utf-8">
-		<title>日历</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>我爱你</title>
+		<style>
+    body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #ff69b4;
+            font-size: 50px;
+            margin-top: 50px;
+        }
+
+        p {
+            color: #333;
+            font-size: 20px;
+            margin: 20px;
+        }
+
+        .content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin-top: 30px;
+        }
+
+        img {
+            width: 300px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .button {
+            background-color: #ff69b4;
+            color: white;
+            padding: 15px 30px;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 30px;
+        }
+
+        .button:hover {
+            background-color: #ff1493;
+        }
+		</style>
 	</head>
 	<body>
-		<h2>2025年3月</h2>
-		<table border="3">
-			<td style="background-color: yellow;">一</td>
-			<td style="background-color: aqua;">二</td>
-			<td style="background-color: aquamarine;">三</td>
-			<td style="background-color: beige;">四</td>
-			<td style="background-color: palevioletred;">五</td>
-			<td style="background-color: fuchsia;">六</td>
-			<td style="background-color: deepskyblue;">日</td>
-			
-			<tr>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td>1</td>
-				<td>2</td>
-			</tr>
-			<tr>
-				<td>3</td>
-				<td>4</td>
-				<td>5</td>
-				<td>6</td>
-				<td>7</td>
-				<td>8</td>
-				<td>9</td>
-			</tr>
-			<tr>
-				<td>10</td>
-				<td>11</td>
-				<td>12</td>
-				<td>13</td>
-				<td>14</td>
-				<td>15</td>
-				<td>16</td>
-			</tr>
-			<tr>
-				<td>17</td>
-				<td>18</td>
-				<td>19</td>
-				<td>20</td>
-				<td>21</td>
-				<td>22</td>
-				<td>23</td>
-			</tr>
-			<tr>
-				<td>24</td>
-				<td>25</td>
-				<td>26</td>
-				<td>27</td>
-				<td>28</td>
-				<td>29</td>
-				<td>30</td>
-			</tr>
-			<tr>
-				<td>31</td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			</tr>
-		</table>
-	</body>
+    <h1>宝宝，我想对你说</h1>
+    <div class="content">
+        <img src="sucai/爱心.jpg" alt="图片不对哦">
+        <p>在我心里，你是最特别的存在，无法用言语表达我的感情，只想对你说：我爱你！</p>
+    </div>
+</body>
 </html>
