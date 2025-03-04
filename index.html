@@ -58,7 +58,6 @@
 	<body>
     <h1>宝宝，我想对你说</h1>
     <div class="content">
-        <img src="sucai/爱心.jpg" alt="图片不对哦">
         <p>在我心里，你是最特别的存在，无法用言语表达我的感情，只想对你说：我爱你！</p>
     </div>
 </body>
